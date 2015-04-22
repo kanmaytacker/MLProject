@@ -1,6 +1,6 @@
 pollutantmean<-function(directory,pollutant,id=1:332)
 {
-  a<-0
+  ac<-0
   s<-0
   for(i in id)
   {
